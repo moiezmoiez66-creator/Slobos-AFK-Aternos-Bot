@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "24962",
-    "port":LightShark9007.aternos.me
+    "ip": "LightShark9007.aternos.me"
+    "port":"24962"
     "version": "1.26.10",
     "try-creative": true
   },
